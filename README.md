@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @oanh11023
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# oanh11023 🚀
 
-<!---
-oanh11023/oanh11023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+A sample project written in **Go** for demonstration purposes. This repository showcases a realistic project structure and includes documentation, configuration, and scripts.
+
+## 📖 Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## 🛠 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/oanh11023.git
+   ```
+2. Install dependencies (for go):
+   ```bash
+   go mod tidy
+   ```
+
+## 🚀 Usage
+Run the main script:
+```bash
+go run main.go
+```
+
+Check the `docs/` folder for detailed guides.
+
+## 🤝 Contributing
+Contributions are welcome! Please read `docs/contributing.md` for guidelines.
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
